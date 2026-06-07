@@ -1,4 +1,4 @@
-# l
+# linux-alt-configuration
 ## part 1: Network Infrastructure (Basic Configuration)
 
 **Characteristic:** Complete infrastructure deployment without any preconfigured settings.
